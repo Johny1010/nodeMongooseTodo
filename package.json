@@ -1,0 +1,24 @@
+{
+  "name": "todobackend",
+  "version": "1.0.0",
+  "description": "Backend for todo app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Johny1010/nodeMongooseTodo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Johny1010/nodeMongooseTodo/issues"
+  },
+  "homepage": "https://github.com/Johny1010/nodeMongooseTodo#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^5.0.0-alpha.2",
+    "mongoose": "^4.7.1"
+  }
+}
